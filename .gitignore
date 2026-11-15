@@ -11,3 +11,5 @@
 /*.egg-info
 /htmlcov
 __pycache__
+config.bat
+node_modules
